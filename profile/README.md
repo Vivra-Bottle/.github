@@ -1,2 +1,3 @@
 Vivra aims to address two major health concerns: chronic dehydration and the lack of information about water quality. The project focuses on creating a smart water bottle equipped with sensors to monitor both water consumption and quality. Through a conductivity sensor to evaluate water purity and a load cell to track water intake, Vivra ensures users stay hydrated with safe, clean water. The bottle also features firmware and a web app for easy-to-understand insights and a modular, durable design. This project emphasizes user convenience, accurate data, and seamless integration with everyday hydration habits.
 
+#- Vivra team
