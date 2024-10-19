@@ -1,12 +1,2 @@
-## Hi there 👋
+Vivra aims to address two major health concerns: chronic dehydration and the lack of information about water quality. The project focuses on creating a smart water bottle equipped with sensors to monitor both water consumption and quality. Through a conductivity sensor to evaluate water purity and a load cell to track water intake, Vivra ensures users stay hydrated with safe, clean water. The bottle also features firmware and a web app for easy-to-understand insights and a modular, durable design. This project emphasizes user convenience, accurate data, and seamless integration with everyday hydration habits.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
